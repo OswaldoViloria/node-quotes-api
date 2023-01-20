@@ -1,14 +1,15 @@
 {
   "name": "quotes-api",
   "version": "1.0.0",
-  "description": "",
+  "description": "Exercise Starting Point",
   "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "nodemon server.js"
   },
   "dependencies": {
-    "express": "^4.16.4"
+    "express": "^4.18.2",
+    "start": "nodemon server.js"
   },
   "repository": {
     "type": "git",
